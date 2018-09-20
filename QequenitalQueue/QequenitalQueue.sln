@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QequenitalQueue", "QequenitalQueue\QequenitalQueue.vcxproj", "{02D8EC09-540B-4A53-924D-73E803049541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D8EC09-540B-4A53-924D-73E803049541}.Debug|x64.ActiveCfg = Debug|x64
+		{02D8EC09-540B-4A53-924D-73E803049541}.Debug|x64.Build.0 = Debug|x64
+		{02D8EC09-540B-4A53-924D-73E803049541}.Debug|x86.ActiveCfg = Debug|Win32
+		{02D8EC09-540B-4A53-924D-73E803049541}.Debug|x86.Build.0 = Debug|Win32
+		{02D8EC09-540B-4A53-924D-73E803049541}.Release|x64.ActiveCfg = Release|x64
+		{02D8EC09-540B-4A53-924D-73E803049541}.Release|x64.Build.0 = Release|x64
+		{02D8EC09-540B-4A53-924D-73E803049541}.Release|x86.ActiveCfg = Release|Win32
+		{02D8EC09-540B-4A53-924D-73E803049541}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {341586C7-ED9A-45E7-9B53-9C15E5F1A414}
+	EndGlobalSection
+EndGlobal
